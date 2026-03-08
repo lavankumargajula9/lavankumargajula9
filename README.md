@@ -1,16 +1,23 @@
-## Hi there 👋
+# Lavan Kumar Gajula
 
-<!--
-**lavankumargajula9/lavankumargajula9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineer | AI Systems Researcher | New York, NY**
 
-Here are some ideas to get you started:
+📧 lavankumargajula9@gmail.com | 📍 Jersey City, NJ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Focus
+Agentic AI Systems — how AI agents can make reliable,
+business-aware decisions in production environments.
+
+## Current Research Project
+**FitExpert** — A return-policy-aware structured agent architecture
+addressing four documented LLM failure modes in luxury fashion e-commerce.
+Preparing for arxiv submission June 2026.
+→ [View Repository](https://github.com/lavankumargajula9/fitexpert)
+
+## Background
+- MS Data Science & Analytics — GPA 3.8
+- 4+ years Data Engineering — 5TB+ daily pipelines, 200+ data sources
+- PhD applicant Fall 2027 — Agentic AI Systems research
+
+## Technical Skills
+Python | SQL | AWS | Apache Spark | Kafka | Shopify API | n8n | Claude API
